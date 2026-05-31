@@ -1,0 +1,6 @@
+{
+  "name": "雙組競賽計時器 (Dual Competition Timer)",
+  "description": "提供兩組獨立的計時器，供比賽或分組競賽使用，支援開始、暫停與重設功能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
